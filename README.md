@@ -18,4 +18,4 @@ This app allows teachers/managers to mark attendance for multiple users and stor
 
 - **Frontend:** React
 - **Backend:** Supabase 
-- **Deployment:** Vercel / Netlify  
+- **Deployment:** Vercel / Netlify (https://attendancetrackerreact.netlify.app/) 
