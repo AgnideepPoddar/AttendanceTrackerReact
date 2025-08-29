@@ -16,6 +16,6 @@ This app allows teachers/managers to mark attendance for multiple users and stor
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Supabase (PostgreSQL + Authentication)  
+- **Frontend:** React
+- **Backend:** Supabase 
 - **Deployment:** Vercel / Netlify  
